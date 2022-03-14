@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GLOBAL CHEF</title>
+    <link rel="stylesheet" href="style.css" />
+     <script
+      src="https://kit.fontawesome.com/3fc5c9a34d.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <h2>
+      Enjoy Promo Codes for Great deals at checkout
+    </h2>
+    <!-- navbar -->
+    <header>
+      <div class-="navbar">
+        <div class="logo">
+          <img
+            src="./globalchef.img/global chef logo.jpeg"
+            alt=""
+            width="200"/>
+          <a href="#">Home</a>
+          <a href="#">Catalog</a>
+          <a href="#">Collection</a>
+          <a href="#">Promo Code</a>
+              <i class="fa-solid fa-magnifying-glass"></i>
+              <i class="fa-solid fa-user"></i>
+              <i class="fa-solid fa-basket-shopping"></i>
+        </div>
+      </div>
+    </header>
+<div class="all">
+    <div class="container">
+      <h1>TODAY'S COLLECTION LIST</h1>
+      <div class="grid-container">
+        <div class="item1">Modern Jackets</div>
+        <div class="item2">Back to Back</div>
+        <div class="item3">Chef Pants</div>
+        <div class="item4">Cool Jackets</div>
+        <div class="item5">Chef Revival</div>
+        <div class="item6">Aprons</div>
+        <div class="item7">Traditional Jackets</div>
+        <div class="item8">Value Jackets</div>
+        <div class="item5">Chef Shoes,Clogs and Boots</div>
+        <div class="item7">Chef Hats</div>
+        <div class="item7">Full Set Under $99</div>
+        <div class="item8">Tool bags,neckerchiefs,buttons</div>
+      </div>
+    </div>
+    <section class="student">
+      <img
+        src="/globalchef.img/iStock-512134181_720x.jpg"
+        alt=""
+        width="100%"
+      />
+      <div>
+        <p1>Student Special</p1>
+        <p>
+          Full uniform sets always on SALE NOW for a
+          <br />
+          great savings
+        </p>
+        <button class="butn">TAKE A LOOK</button>
+      </div>
+    </section>
+    <div class="">
+      <h6>FEATURED COLLECTION</h6>
+      <div class="container-2">
+        <div class="feature-images">
+          <img src="/globalchef.img/bf 1.jpg" alt="" />
+          <p>BRIGADE by Global chef Uniform Kit</p>
+          <p class="price">$79.00</p>
+        </div>
+        <div  class="feature-images">
+          <img src="/globalchef.img/bf 2.jpg" alt="" />
+          <p>
+            GLOBAL CHEF KIT 3 -
+            <br />
+            Short Sleeve and Bib Apron
+          </p>
+          <p class="price">$98.00</p>
+        </div  class="feature-images">
+        <div class="feature-images">
+          <img src="/globalchef.img/bf 3.jpg" alt="" />
+          <p>GLOBAL E-Combo Kit</p>
+          <p class="price">$79.00</p>
+        </div>
+        <div  class="feature-images">
+          <img src="/globalchef.img/bf 4.jpg" alt="" />
+          <p>GLOBAL CHEF KIT2 -with Bib Apron</p>
+          <p class="price">$98.00</p>
+        </div>
+      </div>
+      <button class="feature-button">VIEW ALL</button>
+    </div>
+     </div>
+     <footer class="footer-distributed">
+    <div class="footer-left">
+      <h3><img class="img" src="/globalchef.img/global chef logo.jpeg" alt="" /></h3>
+
+      <p class="footer-links">
+        <a id="hh" href="#">Home</a>
+        ·
+        <a id="bb" href="#">Blog</a>
+        ·
+        <a id="pp" href="#">Pricing</a>
+        ·
+        <a id="aa" href="#">About</a>
+        ·
+        <a id="ff" href="#">Faq</a>
+        ·
+        <a id="cc" href="#">Contact</a>
+      </p>
+
+      <p class="footer-company-name">Global Chef© 2022</p>
+
+      <div class="footer-icons">
+        <p>
+          Follow Us
+          <i class="fa-solid fa-at"></i>
+        </p>
+        <a id="face" href="index.html"><i class="fa fa-facebook"></i></a>
+        <a id="twit" href="#"><i class="fa fa-twitter"></i></a>
+        <a id="lin" href="#"><i class="fa fa-linkedin"></i></a>
+        <a id="ins" href="#"><i class="fa-brands fa-instagram-square"></i></a>
+        <a id="what" href="#"><i class="fa-brands fa-whatsapp"></i></a>
+    <form action="#" method="post">
+      <input type="text" name="email" placeholder="Email" />
+      <textarea name="message" placeholder="Message"></textarea>
+      <button>Send</button>
+    </form>
+  </footer>
+  </body>
+</html>
